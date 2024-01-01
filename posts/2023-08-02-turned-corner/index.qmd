@@ -109,4 +109,4 @@ Since the finance minister insists that the country has turned the corner, why i
 
 While we have seen a recovery to pre-pandemic levels in economic activity, several other measures like inflation, interest rates, exchange rate movements, gross international reserves, consumer and business confidence have not recovered to their pre-pandemic levels. I understand that the finance minister needs to paint a good picture to investors to restore some of the confidence lost in the economy, but we are not at that point yet. In fact, government's own projections show that we are not at that point yet.
 
-The writer is an applied economist and a data scientist, and talks about Ghanaian public data and policy. Follow him on Twitter \@CallmeAlfredo. Huge thanks to financial analyst Jerome Kuseh (\@readjerome on Twitter) for reviewing and providing feedback on this write-up.
+Huge thanks to financial analyst Jerome Kuseh (\@readjerome on Twitter) for reviewing and providing feedback on this write-up.
