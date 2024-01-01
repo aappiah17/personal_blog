@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "Alfred Appiah's Data Analytics and Public Policy Blog"
+  site-url: https://alfredappiah.com
+  description: "Alfred Appiah's personal blog to talk about Ghanaian public policy issues purely from a data analytics perspectives"
+  navbar:
+    right:
+      - text: About
+        href: about.qmd
+      - text: Blog
+        href: blog.qmd
+      - icon: github
+        href: https://github.com/aappiah17
+      - icon: twitter
+        href: https://twitter.com/CallmeAlfredo
+format:
+  html:
+    theme: theme.scss
+
+
+
+

@@ -1,0 +1,20 @@
+---
+title: "Alfred Appiah"
+comments: false
+about:
+  template: trestles
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:alfredappiah17@gmail.com
+    - icon: github
+      text: GitHub
+      href: https://github.com/aappiah17
+    - icon: twitter
+      text: Twitter
+      href: https://www.twitter.com/CallmeAlfredo/  
+---
+
+::: {#hero-heading}
+I am an applied economist and a data scientist, and talks about Ghanaian public data and policy. This blog aims to shape public policy conversations in Ghana by providing in-depth analysis from a data perspective.
+:::
