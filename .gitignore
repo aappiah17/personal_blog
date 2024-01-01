@@ -9,6 +9,7 @@ README.html
 env/
 /env/
 _freeze/
+_site/
 README_files/
 site_libs/
 .quarto/
