@@ -15,5 +15,6 @@ format:
   html:
     include-after-body: ../footer.html
 comments: 
-  utterances: 
-    repo:  aappiah17/blog_comments
+  hypothesis: 
+    theme:  clean
+    openSidebar: false

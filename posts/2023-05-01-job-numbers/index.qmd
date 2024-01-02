@@ -4,11 +4,11 @@ date: "2023-05-01"
 categories: ["Employment", "Job Growth", "Fact Check"]
 image: "overall_jobs.png"
 author: ["Alfred Appiah"]
-subtitle: "An analysis to show that the job numbers posted by Ghana's veep can't be correct"
+subtitle: "An analysis to show that the job numbers posted by Ghana's Veep can't be correct"
 toc: true
 ---
 
-When Ghana's Vice President, Dr. Mahamudu Bawumia (DMB), was on a health walk in the Eastern Region earlier this month, he told party supporters that his government has created[2.1 million jobs since 2017 and these jobs are verifiable](https://www.myjoyonline.com/weve-created-2-1m-jobs-unlike-the-ndc-who-created-unemployment-dr-bawumia/). Last week, he doubled down on that claim and shared a[snippet of an Excel spreadsheet](https://drive.google.com/file/d/12M2U_xEi5iRCN8WU8P9ZL8yjPIlUQRnk/view) with jobs supposedly created per year by ministries and agencies as well as the private sector, proxied by SSNIT registrations. The data showed that 2,255,928 total jobs have been created between 2017 and 2022, with 1,280,764 in the public sector and the remaining 975,164 in the private sector. The data shared made me curious and I decided to take a look at data from other publicly available labour market trackers to see how they match up. In short, the numbers shared by the VEEP simply do not add up!
+When Ghana's Vice President, Dr. Mahamudu Bawumia (DMB), was on a health walk in the Eastern Region earlier this month, he told party supporters that his government has created [2.1 million jobs since 2017 and these jobs are verifiable](https://www.myjoyonline.com/weve-created-2-1m-jobs-unlike-the-ndc-who-created-unemployment-dr-bawumia/). Last week, he doubled down on that claim and shared a [snippet of an Excel spreadsheet](https://drive.google.com/file/d/12M2U_xEi5iRCN8WU8P9ZL8yjPIlUQRnk/view) with jobs supposedly created per year by ministries and agencies as well as the private sector, proxied by SSNIT registrations. The data showed that 2,255,928 total jobs have been created between 2017 and 2022, with 1,280,764 in the public sector and the remaining 975,164 in the private sector. The data shared made me curious and I decided to take a look at data from other publicly available labour market trackers to see how they match up. In short, the numbers shared by the VEEP simply do not add up!
 
 Generally, in advanced economies, monthly labour force surveys are conducted to estimate labour market indicators like employment rate, unemployment rate, and wage growth among other things. Each month, the national statistical agencies of those jurisdictions would share the jobs data. This ensures easy comparisons over different periods of time, for instance, on monthly, quarterly or annual bases.
 

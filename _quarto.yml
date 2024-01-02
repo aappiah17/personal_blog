@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "**Simplifying Ghana Data**"
+  title: "**Alfred Appiah**"
   site-url: https://alfredappiah.com
   description: "Alfred Appiah's personal blog to talk about Ghanaian public policy issues purely from a data analytics perspectives"
   navbar:
