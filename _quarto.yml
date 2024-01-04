@@ -16,11 +16,9 @@ website:
       - icon: twitter
         href: https://twitter.com/CallmeAlfredo
   open-graph: true
+  twitter-card: true
   cookie-consent: true
   google-analytics: "G-7371CL3CP9"
-  twitter-card: 
-    card-style: summary_large_image
-    creator: "@CallmeAlfredo"
 format:
   html:
     theme: theme.scss
