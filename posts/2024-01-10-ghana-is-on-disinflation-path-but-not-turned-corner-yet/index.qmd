@@ -1,0 +1,37 @@
+---
+title: "Ghana is on a disinflationary path but hasn't turned the corner yet"
+date: "2024-01-10"
+categories: ["Inflation","Economy"]
+image: "inflation_annual_average"
+author: ["Alfred Appiah"]
+subtitle: "A quick look at Ghana's inflation path"
+toc: true
+---
+
+Ghana, like almost every other jurisdiction, uses the consumer price index (CPI) to measure the rate of growth in the general price level. The CPI measures changes in the price of a fixed basket of goods and services purchased by households. A fixed basket of goods and services is used so that any changes in the value of the basket can be attributed to price changes. The Ghana Statistical Service (GSS) releases the CPI each month. This short essay looks at the December 2023 CPI report and compares to historical data. 
+
+## Overall inflation is reducing but still high 
+
+The latest CPI report from the GSS shows that the inflation rate for the last month of 2023 was 23.2%, marking the fifth consecutive month the rate of inflation has reduced. Ghana's inflation rate has reduced from the peak of 54.1% in December 2022 to the current 23.2%. It is still 13 percentage points higher than the upper bound of the Central Bank's target (10%).
+
+![](inflation_overall.png)
+Ghana is on a disinflation path, with both food and non-food components of CPI continuing to increase but at a decreasing rate. It is however important to distinguish between disinflation (what Ghana is currently experiencing) and deflation in the public conversation. Disinflation is when prices are increasing but at a decreasing rate. For example, inflation in December 2022 was 54.1%, meaning that prices rose 54.1% compared to the same period in 2021. When inflation in December 2023 is 23.2%, it doesn't mean prices reduced overall but they increased at a slower pace (23.2% compared to December 2022). 
+On the other hand, deflation is when prices are actually reducing compared to a previous period. The inflation rate in this case would be negative. 
+
+![](inflation_component.png)
+Despite what pro government folks would say about a turned corner, the average inflation in 2023 is the highest Ghana has seen in the last 20 years. 
+![](inflation_annual_average.png)
+
+## Food Inflation is miles off pre-pandemic levels
+A significant component of Ghana's CPI is food and non-alcoholic beverages. They carry a weight of 42.6 in the calculation of inflation and hence very significant. Ghana's food inflation has been on a downtrend too but still miles off where it could be. The good news is that food inflation has dipped below 30% for the first time since April 2022. The bad news is that it's still significantly higher than its pre-pandemic average of 6.6%.
+
+![](inflation_food.png)
+
+## The disinflation path is not uniform across regions
+The rate of disinflation is very different among regions. Whereas regions like Greater Accra, Oti, Central and Savannah have seen their inflation rates decline by over 30 percentage points between December 2022 and December 2023, others like Volta, Northern, Western and Upper East have seen less than 15 percentage points decline in inflation. Inflation rate in the Volta region for instance, has declined by just 4 percentage points between December 2022 and December 2023. 
+Nine out of the 16 regions still have inflation rates higher than the national average. 
+
+![](disinflation_region.png)
+
+## End note 
+Ghana is on a good path in terms of inflation. But it is important to exercise caution when declaring that we have turned the corner. Some risk to the inflation outlook include volatility in commodity prices, pressure on the Ghana cedi once we start repaying our external debts again and pass-through effect of new taxes and levies. There would be a time for jubilation but that time isn't now. 
