@@ -2,7 +2,7 @@
 title: "Ghana is on a disinflation path but hasn't turned the corner yet"
 date: "2024-01-10"
 categories: ["Inflation","Economy"]
-image: "inflation_annual_average"
+image: "inflation_annual_average.png"
 author: ["Alfred Appiah"]
 subtitle: "A quick look at Ghana's inflation path"
 toc: true
@@ -23,7 +23,7 @@ Despite what pro government folks would say about a turned corner, the average i
 
 ![](inflation_annual_average.png)
 
-## Food Inflation is still higher than pre-pandemic levels
+## Food inflation is still higher than pre-pandemic levels
 
 A significant component of Ghana's CPI is food and non-alcoholic beverages. They carry a weight of 42.6 out of 100 in the calculation of inflation and hence very significant. Ghana's food inflation has been on a downtrend too but still far away from where it could be. The good news is that food inflation has dipped below 30% for the first time since April 2022. The bad news is that it's still significantly higher than its pre-pandemic average of 6.6%.
 
