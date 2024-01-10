@@ -1,5 +1,5 @@
 ---
-title: "Ghana is on a disinflationary path but hasn't turned the corner yet"
+title: "Ghana is on a disinflation path but hasn't turned the corner yet"
 date: "2024-01-10"
 categories: ["Inflation","Economy"]
 image: "inflation_annual_average"
@@ -20,18 +20,22 @@ On the other hand, deflation is when prices are actually reducing compared to a 
 
 ![](inflation_component.png)
 Despite what pro government folks would say about a turned corner, the average inflation in 2023 is the highest Ghana has seen in the last 20 years. 
+
 ![](inflation_annual_average.png)
 
 ## Food Inflation is miles off pre-pandemic levels
+
 A significant component of Ghana's CPI is food and non-alcoholic beverages. They carry a weight of 42.6 in the calculation of inflation and hence very significant. Ghana's food inflation has been on a downtrend too but still miles off where it could be. The good news is that food inflation has dipped below 30% for the first time since April 2022. The bad news is that it's still significantly higher than its pre-pandemic average of 6.6%.
 
 ![](inflation_food.png)
 
 ## The disinflation path is not uniform across regions
+
 The rate of disinflation is very different among regions. Whereas regions like Greater Accra, Oti, Central and Savannah have seen their inflation rates decline by over 30 percentage points between December 2022 and December 2023, others like Volta, Northern, Western and Upper East have seen less than 15 percentage points decline in inflation. Inflation rate in the Volta region for instance, has declined by just 4 percentage points between December 2022 and December 2023. 
 Nine out of the 16 regions still have inflation rates higher than the national average. 
 
 ![](disinflation_region.png)
 
 ## End note 
+
 Ghana is on a good path in terms of inflation. But it is important to exercise caution when declaring that we have turned the corner. Some risk to the inflation outlook include volatility in commodity prices, pressure on the Ghana cedi once we start repaying our external debts again and pass-through effect of new taxes and levies. There would be a time for jubilation but that time isn't now. 
