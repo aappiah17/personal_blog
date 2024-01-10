@@ -10,7 +10,7 @@ toc: true
 
 Ghana, like almost every other jurisdiction, uses the consumer price index (CPI) to measure the rate of growth in the general price level. The CPI measures changes in the price of a fixed basket of goods and services purchased by households. A fixed basket of goods and services is used so that any changes in the value of the basket can be attributed to price changes. The Ghana Statistical Service (GSS) releases the CPI each month. This short essay looks at the December 2023 CPI report and compares to historical data. 
 
-## Overall inflation is reducing but still high 
+## Overall inflation is reducing but still significantly higher than the BoG target 
 
 The latest CPI report from the GSS shows that the inflation rate for the last month of 2023 was 23.2%, marking the fifth consecutive month the rate of inflation has reduced. Ghana's inflation rate has reduced from the peak of 54.1% in December 2022 to the current 23.2%. It is still 13 percentage points higher than the upper bound of the Central Bank's target (10%).
 
@@ -23,9 +23,9 @@ Despite what pro government folks would say about a turned corner, the average i
 
 ![](inflation_annual_average.png)
 
-## Food Inflation is miles off pre-pandemic levels
+## Food Inflation is still higher than pre-pandemic levels
 
-A significant component of Ghana's CPI is food and non-alcoholic beverages. They carry a weight of 42.6 in the calculation of inflation and hence very significant. Ghana's food inflation has been on a downtrend too but still miles off where it could be. The good news is that food inflation has dipped below 30% for the first time since April 2022. The bad news is that it's still significantly higher than its pre-pandemic average of 6.6%.
+A significant component of Ghana's CPI is food and non-alcoholic beverages. They carry a weight of 42.6 out of 100 in the calculation of inflation and hence very significant. Ghana's food inflation has been on a downtrend too but still far away from where it could be. The good news is that food inflation has dipped below 30% for the first time since April 2022. The bad news is that it's still significantly higher than its pre-pandemic average of 6.6%.
 
 ![](inflation_food.png)
 
@@ -38,4 +38,7 @@ Nine out of the 16 regions still have inflation rates higher than the national a
 
 ## End note 
 
-Ghana is on a good path in terms of inflation. But it is important to exercise caution when declaring that we have turned the corner. Some risk to the inflation outlook include volatility in commodity prices, pressure on the Ghana cedi once we start repaying our external debts again and pass-through effect of new taxes and levies. There would be a time for jubilation but that time isn't now. 
+Ghana is on a good path in terms of inflation. But it is important to exercise caution when declaring that we have turned the corner. Some risk to the inflation outlook include volatility in commodity prices, pressure on the Ghana cedi once we start repaying our external debts again and pass-through effect of new taxes and levies. There would be a time for jubilation but that time isn't now. Almost all other indicators suggest that we have not turned the corner yet.
+
+![](macro_summary.png)
+
