@@ -11,14 +11,14 @@ $headings-font-family:  'Prata', 'Roboto', 'Playfair Display', 'Montserrat'    !
 }
 
 .btn-primary {
-    color: $body-bg;
+    color: #000000;
     background-color: $primary;
     border-color: $primary;
 }
 
 .page-item.active .page-link {
     z-index: 3;
-    color: $body-bg;
+    color: #000000;
     background-color: $primary;
     border-color: $primary;
 }
