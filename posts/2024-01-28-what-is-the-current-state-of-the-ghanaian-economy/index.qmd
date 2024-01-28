@@ -10,7 +10,7 @@ toc: true
 
 The Ghanaian economy has undergone its most severe crisis in a generation during the past two years. This crisis, stemming from pre-existing fiscal and debt vulnerabilities, was intensified by external factors, compelling the government to [seek assistance from the International Monetary Fund (IMF)](https://www.imf.org/en/News/Articles/2023/05/17/pr23151-ghana-imf-executive-board-approves-extended-credit-facility-arrangement-for-ghana). This brief essay offers an analysis of the economic landscape as of the end of 2023, drawing on publicly available data sources. The discussion encompasses various aspects, including economic growth, interest rates, exchange rates, international reserves, and consumer and business confidence.
 
-I previously wrote about Ghana's current disinflation path [here](https://alfredappiah.com/posts/2024-01-10-ghana-is-on-disinflation-path-but-not-turned-corner-yet/) so this essay deliberately doesn't discuss inflation to avoid redundancy. As a recap of that, Ghana is currently progressing along a favorable disinflation path, and given effective risk mitigation measures, this trajectory is anticipated to persist.
+I previously wrote about Ghana's current disinflation path [here](https://alfredappiah.com/posts/2024-01-10-ghana-is-on-disinflation-path-but-not-turned-corner-yet/) so this essay deliberately doesn't discuss inflation to avoid repetition. As a recap of that, Ghana is currently progressing along a favorable disinflation path, and given effective risk mitigation measures, this trajectory is anticipated to persist.
 
 So back to our main focus, let's start with economic growth.
 

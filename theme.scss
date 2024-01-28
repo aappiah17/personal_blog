@@ -5,3 +5,23 @@ $body-color: #1a1a1a!default;
 $font-family-base:  'Arial', 'Source Sans Pro',  'Lato', 'Merriweather', 'Roboto Regular', 'Cabin Regular' !default;
 $headings-font-family:  'Prata', 'Roboto', 'Playfair Display', 'Montserrat'    !default;
 
+/*-- scss:rules --*/
+
+.navbar {
+  background-color: $primary;
+  font-color: $body-color;
+}
+
+.quarto-title-banner{
+  background-color: $primary;
+  font-color: $body-color;
+}
+
+.btn-primary {
+    background-color: $primary;
+    border-color: $primary;
+}
+
+.page-item.active .page-link {
+    background-color: $primary;
+}
