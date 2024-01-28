@@ -15,3 +15,10 @@ $headings-font-family:  'Prata', 'Roboto', 'Playfair Display', 'Montserrat'    !
     background-color: $primary;
     border-color: $primary;
 }
+
+.page-item.active .page-link {
+    z-index: 3;
+    color: $body-bg;
+    background-color: $primary;
+    border-color: $primary;
+}
