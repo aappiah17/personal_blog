@@ -1,6 +1,7 @@
 /*-- scss:defaults --*/
 $primary:  #E3B778!default;
 $body-bg: #fffbf4!default;
+$text-color: #000000;
 $font-family-base:  'Arial', 'Source Sans Pro',  'Lato', 'Merriweather', 'Roboto Regular', 'Cabin Regular' !default;
 $headings-font-family:  'Prata', 'Roboto', 'Playfair Display', 'Montserrat'    !default;
 
@@ -12,7 +13,7 @@ $headings-font-family:  'Prata', 'Roboto', 'Playfair Display', 'Montserrat'    !
 
 .quarto-title-banner{
   background-color: $primary ;
-  color: #000000;
+  color: $text-color;
 }
 
 .btn-primary {
