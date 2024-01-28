@@ -9,12 +9,16 @@ $headings-font-family:  'Prata', 'Roboto', 'Playfair Display', 'Montserrat'    !
 
 .navbar {
   background-color: $primary;
-  font-color: $body-color;
+  color: $body-color;
 }
 
+#title-block-header.quarto-title-block.default .quarto-title .title{
+  background-color: $primary;
+  color: $body-color;
+}
 .quarto-title-banner{
   background-color: $primary;
-  font-color: $body-color;
+  color: $body-color;
 }
 
 .btn-primary {
