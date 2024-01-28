@@ -1,5 +1,5 @@
 ---
-title: "What is the Current State of the Ghanaian Economy?"
+title: "What is the current state of the Ghanaian economy?"
 date: "2024-01-28"
 categories: ["Growth", "Economy","Recovery","Elections","Credit Market"]
 image: "ciea_since_covid.png"
