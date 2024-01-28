@@ -8,7 +8,7 @@ subtitle: "An analysis of the current state of the Ghanaian economy"
 toc: true
 ---
 
-The Ghanaian economy has undergone its most severe crisis in a generation during the past two years. This crisis, stemming from pre-existing fiscal and debt vulnerabilities, was intensified by external factors, compelling the government to [seek assistance from the International Monetary Fund (IMF)](https://www.imf.org/en/News/Articles/2023/05/17/pr23151-ghana-imf-executive-board-approves-extended-credit-facility-arrangement-for-ghana). This brief essay offers an analysis of the economic landscape as of the conclusion of 2023, drawing on publicly accessible data sources. The discussion encompasses various aspects, including economic growth, interest rates, exchange rates, international reserves, and consumer and business confidence.
+The Ghanaian economy has undergone its most severe crisis in a generation during the past two years. This crisis, stemming from pre-existing fiscal and debt vulnerabilities, was intensified by external factors, compelling the government to [seek assistance from the International Monetary Fund (IMF)](https://www.imf.org/en/News/Articles/2023/05/17/pr23151-ghana-imf-executive-board-approves-extended-credit-facility-arrangement-for-ghana). This brief essay offers an analysis of the economic landscape as of the end of 2023, drawing on publicly available data sources. The discussion encompasses various aspects, including economic growth, interest rates, exchange rates, international reserves, and consumer and business confidence.
 
 I previously wrote about Ghana's current disinflation path [here](https://alfredappiah.com/posts/2024-01-10-ghana-is-on-disinflation-path-but-not-turned-corner-yet/) so this essay deliberately doesn't discuss inflation to avoid redundancy. As a recap of that, Ghana is currently progressing along a favorable disinflation path, and given effective risk mitigation measures, this trajectory is anticipated to persist.
 
@@ -19,7 +19,7 @@ So back to our main focus, let's start with economic growth.
 Ghana's economic growth in the third quarter of 2023 registered a disappointing rate of 2%. This represents a decline compared to the average economic growth of 3.2% observed in the first half of the year. Strikingly, the third-quarter growth in 2023 was even lower than the 2.7% recorded during the height of the economic crisis in 2022. The primary contributor to this subdued growth was the persistent struggle within the industrial sector, which posted negative growth for the fourth consecutive quarter.
 
 ![](overall_gdp.png)
-Ghana's industry sector continues to struggle to recover to growth levels seen before the pandemic. Growth is currently 4.2% below it's pre-pandemic level. The two other sectors, agriculture and services, are currently growing at 26.5% and 21.3%, respectively above pre-pandemic levels. Industrial sub-sectors struggling to grow include construction, mining and quarrying, and industry demand of electricity.  
+Ghana's industry sector continues to struggle to recover to growth levels seen before the pandemic. Growth is currently 4.2% below its pre-pandemic level. The two other sectors, agriculture and services, are currently growing at 26.5% and 21.3%, respectively above pre-pandemic levels. Industrial sub-sectors struggling to grow include construction, mining and quarrying, and industry demand of electricity.  
 
 ![](industry_gdp.png)
 
@@ -35,7 +35,7 @@ Despite the underwhelming growth observed in GDP during the third quarter of 202
 
 ### Interest rate
 
-The cost of borrowing remains considerably high in Ghana, with the central bank steadfastly maintaining its key policy rate at 30% since July 2023 in an effort to curb inflation. For what it's worth, I don't anticipate that the CB would reduce the policy rate when it announces its decision tomorrow. 
+The cost of borrowing remains considerably high in Ghana, with the central bank steadfastly maintaining its key policy rate at 30% since July 2023 in an effort to curb inflation. For what it's worth, I don't anticipate that the CB would reduce the policy rate when it announces its decision on January 29th. 
 
 The interbank weighted average interest rate, which is simply the rate at which commercial banks lend to each other, reached 30% in December 2023. In the same period last year, at the peak of the economic crisis, the rate was 25%. 
 
@@ -59,7 +59,7 @@ The challenging lending market is further exacerbated by the increasing stock of
 
 ### Exchange rate
 
-The Ghanaian cedi has experienced a degree of stability in relation to the US dollar over the past year. Closing the year 2023, it recorded a year-to-date depreciation of 28%, a marginal improvement from the 30% depreciation during the corresponding period in 2022. However, it is essential to note that the currency's value has undergone a substantial deterioration when compared to pre-pandemic levels or even the period preceding the current economic crisis.    
+The Ghanaian cedi has experienced a degree of stability in relation to the US dollar over the past year. In December 2023, it recorded a year-to-date depreciation of 28%, a marginal improvement from the 30% depreciation during the corresponding period in 2022. However, it is essential to note that the currency's value has undergone a substantial deterioration when compared to pre-pandemic levels or even the period preceding the current economic crisis.    
 
 ![](fx_rate.png)
 
@@ -75,14 +75,14 @@ Looking ahead, I anticipate that recent inflows from the International Monetary 
 
 ## Consumer confidence
 
-The Bank of Ghana tracks perception of consumers and businesses on the economy using confidence surveys. It then constructs a consumer confidence index and a business confidence index from the surveys.
+The Bank of Ghana tracks perceptions of consumers and businesses on the economy using confidence surveys. It then constructs a consumer confidence index and a business confidence index from the surveys.
 
-Over recent periods, there has been a noteworthy decline in consumer and business confidence, reflecting the macroeconomic environment. However, in December 2023, a positive shift occurred, with both consumer and business confidence reaching their highest points in the past 13 reporting periods. This upswing could potentially signify growing optimism, possibly influenced by the anticipated positive impact of inflows from the International Monetary Fund (IMF) and the World Bank on the macroeconomic environment.
+Over recent periods, there has been substantial declines in consumer and business confidence, reflecting the macroeconomic environment. However, in December 2023, a positive shift occurred, with both consumer and business confidence reaching their highest points in the past 13 reporting periods. These changes could potentially signify growing optimism, possibly influenced by the anticipated positive impact of inflows from the International Monetary Fund (IMF) and the World Bank on the macroeconomic environment.
 
 ![](conf_since_covid.png)
 
 ## Final note
 
-The current state of the Ghanaian economy presents a mixed picture marked by both positive and challenging indicators. While GDP growth in the third quarter was disappointing, there are signs of a potential economic rebound in the fourth quarter. Notably, the Composite Index of Economic Activity (CIEA) showed positive growth in October and November, driven by increased cement sales, VAT collection, and other factors. The central bank's efforts to control inflation have maintained a high policy rate of 30%, contributing to elevated borrowing costs. On the currency front, the Ghanaian cedi showed relative stability against the US dollar, albeit with notable year-to-date depreciation. The banking sector faces challenges with a rising ratio of non-performing loans, influencing credit risk. 
+The current state of the Ghanaian economy presents a mixed picture marked by both positive and challenging indicators. While GDP growth in the third quarter was disappointing, there are signs of a potential economic rebound in the fourth quarter. Notably, the Composite Index of Economic Activity (CIEA) showed positive growth in October and November, driven by increased cement sales, VAT collection, and other factors. The central bank's efforts to control inflation have maintained a high policy rate of 30%, contributing to elevated borrowing costs. On the currency front, the Ghanaian cedi showed relative stability against the US dollar, albeit with notable year-to-date depreciation. The banking sector faces challenges with a rising ratio of non-performing loans and residual effects of the domestic debt exchange program, influencing credit risk. 
 
 However, there are positive signals, including increases in consumer and business confidence, possibly fueled by anticipated improvements from inflows provided by the IMF and the World Bank. International reserves, though recovering, remain below pre-crisis levels. Overall, the Ghanaian economy has a long road to full recovery and policymakers must remain focused. Elections remain a key risk to the outlook on the fiscal policy side and how we navigate that would improve or further disrupt the path to recovery. 
