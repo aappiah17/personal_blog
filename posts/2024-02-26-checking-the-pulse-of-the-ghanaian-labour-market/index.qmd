@@ -50,15 +50,15 @@ Since my last article on this topic, I have seen new data that still doesn't exp
 
 Between 2019 and 2022, the active employee (PAYE) tax population increased by 542k people. In that time frame, [the snippet of an Excel spreadsheet](https://drive.google.com/file/d/12M2U_xEi5iRCN8WU8P9ZL8yjPIlUQRnk/view) provided by government (the Veep, to be specific, in case we can't associate him with the government) as proof of jobs created shows that 889K jobs were created. This analysis is even generous because we are assuming here that any new tax payer is a new job and not because of enhanced compliance efforts by the GRA. This generous analysis still doesn't explain about 40% of the jobs created in the time frame considered. Note that I only had access to GRA data for 2019 to 2022 so I used the corresponding job numbers for that period. These are jobs created by government ministries, departments and agencies (MDAs) and the formal private sector, and are 'trackable' according to government. So why aren't the vast majority of them reflecting in the active taxpayer population.  
 
-![](gra_data.png)
+![](gra_data_1.png)
 
 ### Active SSNIT contribution data does not match the jobs created
 
 Active SSNIT contribution is a decent proxy for conditions in the labour market. The Bank of Ghana uses it to gauge employment conditions. Between 2016 and 2021, the active SSNIT contributor population increased by 380k people. In that time frame, the government's 'jobs data' showed that about 2m jobs were created. In essence, only about 19% of the jobs created showed up in the active SSNIT population. Again, these are jobs created by the public and the formal private sector. In fact, the government said its private formal jobs data is based on SSNIT data. How then do we explain the significant difference between active contribution and job growth? That raises an issue about the sustainability of these 'jobs' or whether most of them actually exist. Perhaps, the jobs are largely transitional and not sustainable jobs. 
 
-![](ssnit_2020.png)
+![](ssnit_2020_1.png)
 
-![](ssnit_2021.png)
+![](ssnit_2021_1.png)
 
 ### The jobs created can simply not be verified with publicly available data
 
