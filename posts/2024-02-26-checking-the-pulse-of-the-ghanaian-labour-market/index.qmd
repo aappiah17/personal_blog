@@ -23,7 +23,7 @@ An interesting observation in the unemployment trends is that in the last quarte
 
 ### The unemployment situation is worse than it was six years ago and for all demographic groups
 
-If you go down memory lane to look at unemployment rates and compare to now, you get an even grimmer picture. For example, the overall estimated unemployment rate in 2017 (based on the Ghana Living Standards Survey 7) was 8.4%. It is now 14.7%. Male unemployment rate has increased from 7.5% to now 10.9%. The unemployment rate of adult youth (15 to 35 years) has almost doubled in that time frame. That of younger youth (15 to 24 years) has seen an increase from 18.5% in 2017 to 30.1%  
+If you go down memory lane to look at unemployment rates and compare to now, you get an even grimmer picture. For example, the overall estimated unemployment rate in 2017 (based on the [Ghana Living Standards Survey 7](https://www.statsghana.gov.gh/gssmain/fileUpload/pressrelease/GLSS7%20MAIN%20REPORT_FINAL.pdf)) was 8.4%. It is now 14.7%. Male unemployment rate has increased from 7.5% to now 10.9%. The unemployment rate of adult youth (15 to 35 years) has almost doubled in that time frame. That of younger youth (15 to 24 years) has seen an increase from 18.5% in 2017 to 30.1%  
 
 ![](unemployment_by_group.png)
 
@@ -48,7 +48,7 @@ Since my last article on this topic, I have seen new data that still doesn't exp
 
 ### Growth in active taxpayer population does not match the jobs created
 
-Between 2019 and 2022, the active employee (PAYE) tax population increased by 542k people. In that time frame, [the snippet of an Excel spreadsheet](https://drive.google.com/file/d/12M2U_xEi5iRCN8WU8P9ZL8yjPIlUQRnk/view) provided by government (the Veep, to be specific, in case we can't associate him with the government) as proof of jobs created shows that 889K jobs were created. This analysis is even generous because we are assuming here that any new tax payer is a new job and not because of enhanced compliance efforts by the GRA. This generous analysis still doesn't explain about 40% of the jobs created in the time frame considered. Note that I only had access to GRA data for 2019 to 2022 so I used the corresponding job numbers for that period. These are jobs created by government ministries, departments and agencies (MDAs) and the formal private sector, and are 'trackable' according to government. So why aren't the vast majority of them reflecting in the active taxpayer population.  
+Between 2019 and 2022, the active employee (PAYE) tax population increased by 542K people. In that time frame, [the snippet of an Excel spreadsheet](https://drive.google.com/file/d/12M2U_xEi5iRCN8WU8P9ZL8yjPIlUQRnk/view) provided by government (the Veep, to be specific, in case we can't associate him with the government) as proof of jobs created shows that 889K jobs were created. This analysis is even generous because we are assuming here that any new tax payer is a new job and not because of enhanced compliance efforts by the GRA. This generous analysis still doesn't explain about 40% of the jobs created in the time frame considered. Note that I only had access to GRA data for 2019 to 2022 so I used the corresponding job numbers for that period. These are jobs created by government ministries, departments and agencies (MDAs) and the formal private sector, and are 'trackable' according to government. So why aren't the vast majority of them reflecting in the active taxpayer population.  
 
 ![](gra_data_1.png)
 
