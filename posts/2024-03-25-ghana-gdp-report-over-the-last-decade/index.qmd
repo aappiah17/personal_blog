@@ -1,0 +1,55 @@
+---
+title: "Assessing Ghana's growth trends over the last decade"
+date: "2024-03-25"
+categories: ["Growth", "Economy","Recovery","Depreciation"]
+image: "gdp_contribution"
+author: ["Alfred Appiah"]
+subtitle: "An analysis of the current state of the Ghanaian economy"
+toc: true
+---
+
+Last week, the Ghana Statistical Service released its latest gross domestic product (GDP) report. The report had data for [quarter 4](https://statsghana.gov.gh/gssmain/storage/img/marqueeupdater/Rebased%20GDP%20quarterly%20bullettin_March_2024%20edition_web.xlsx) of 2023 as well as the the full year data for [2023](https://statsghana.gov.gh/gssmain/storage/img/marqueeupdater/Annual_2013_2023_GDP_GSS.xlsx). In this article, I highlight some of my observations from both the quarterly and annual GDP estimates. 
+
+### When industry struggles, overall growth struggles
+
+In 2023, the Ghanaian economy experienced a growth rate of 2.9%, marking its slowest annual growth in the past three years. Interestingly, except the pandemic-affected year of 2020, this growth rate remains the lowest over the last eight years. Analyzing the growth trends over the past decade reveals a notable pattern: periods of robust growth in the Ghanaian economy often coincide with strong performance in the industrial sector. Specifically, the most significant economic expansions occurred between 2017 and 2019. During these years, the industrial sector played a pivotal role, contributing to over 60% of the overall growth in both 2017 and 2018. 
+
+![](gdp_contribution.png)
+The growth in industry in the period was largely driven by expansion in the mining and quarrying sub-sector on the back of oil production from the Tweneboa, Enyenra, Ntomme (TEN) and Sankofa Gye-Nyame (SGN) fields. However, when the mining and quarrying sub-sector began to decline, growth from other sub-sectors wasn't able to compensate for this downturn.
+
+![](gdp_contribution_industry.png)
+
+### Contribution of industry to the overall economy has declined over time
+
+Over the past decade, the Ghanaian economy has experienced a decline in the share of GDP contributed by the industrial sector. In 2013, industry accounted for 36% of GDP, but recent data for 2023 suggests that this contribution has decreased to 32%. This decline has occurred despite various governmental efforts to promote industrialization during this period.
+
+Conversely, there has been a notable shift towards a more service-oriented economy. The share of GDP attributed to services has increased from 43% in 2013 to 46% in 2023. Additionally, the agricultural sector has experienced a slight increase in its GDP share, rising from 21% in 2013 to 23% in 2023.
+
+![](gdp_structure.png)
+
+### In Cedi terms Ghanaians are getting richer but in $ terms, nothing has really changed in a decade
+
+Certainly, GDP per capita, while widely used, does have its limitations as a measure of standard of living. However, it remains one of the most universally accepted measures available.
+
+Examining Ghana's GDP per capita between 2013 and 2023 reveals a substantial increase of about five fold when measured in local currency terms. However, when considering the same data in US dollar terms, the picture changes significantly, showing virtually no change in 10 years. This discrepancy underscores the profound impact of local currency depreciation on the overall wellbeing of the population. It indicates that while the economy might seem to be growing when measured in local currency, the actual purchasing power and standard of living of individuals may not necessarily be improving, particularly when viewed from an international perspective.
+
+![](gdp_per_capita.png)
+
+
+### Quarter 4 2023 growth was strongest in the entire year but unchanged from same period in 2022
+
+In my [previous article](https://alfredappiah.com/posts/2024-01-28-what-is-the-current-state-of-the-ghanaian-economy/#final-note) about the state of the Ghanaian economy, I highlighted how recovery in the Central Bank's composite index of economic activity could signal that GDP growth in quarter 4 could rebound. The latest data from the GSS confirms that indeed growth in Q4 (3.8%) was the highest across all quarters in the year. The growth, however is not different from what was recorded in the same period in the crisis year of 2022. 
+
+![](overall_gdp.png)
+### Quartely GDP continues to grow above pre-pandemic levels except in industry
+
+From a quarterly GDP standpoint, the Ghanaian economy grew at 12.9% above the level it was before the pandemic. This growth above pre-pandemic level is more pronounced in the agriculture and services sectors. However, the industry sector continues to struggle to growth, with quarterly GDP 3.6% below pre-pandemic levels. 
+
+![](gdp_since_q42019_sec.png)
+
+### The construction sub-sector is struggling and needs help
+
+On quarterly basis, the construction sub-sector is currently growing at 8% below its pre-pandemic levels. For the second consecutive year, the sub-sector has recorded negative growth (-6.8% in 2022; -9.9% in 2023). The decline is so bad that construction's contribution to GDP has dwindled from a high of 8.9% in 2015 to 5.3% in 2023. 
+
+
+![](gdp_since_q42019_ind.png)
