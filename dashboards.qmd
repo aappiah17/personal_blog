@@ -1,0 +1,10 @@
+---
+title: "Dashboards"
+subtitle: "Interactive tools built on Ghana's official statistics"
+listing:
+  contents: dashboards
+  type: grid
+  sort: "date desc"
+  fields: [image, title, subtitle, date]
+toc: false
+---

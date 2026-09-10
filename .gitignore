@@ -15,3 +15,4 @@ site_libs/
 .quarto/
 .quarto/preview/
 .quarto/idx/
+**/*.quarto_ipynb

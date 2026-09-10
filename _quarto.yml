@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - "dashboards/gdp-explorer-app/**"
 
 website:
   title: "**Alfred Appiah**"
@@ -17,6 +19,16 @@ website:
         href: https://twitter.com/CallmeAlfredo
       - icon: rss
         href: blog.xml
+    left:
+      # keep your existing entries, then add:
+      - text: "Dashboards"
+        menu:
+          - text: "All dashboards"
+            href: dashboards.qmd
+          - text: "---"
+          - text: "Ghana GDP Explorer"
+            href: dashboards/gdp-explorer.qmd
+
   open-graph: true
   twitter-card: true
   cookie-consent: true
@@ -24,6 +36,8 @@ website:
 format:
   html:
     theme: theme.scss
+execute:
+  freeze: auto
     
 
 

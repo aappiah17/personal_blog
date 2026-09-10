@@ -1,0 +1,22 @@
+---
+title: "Ghana GDP Explorer"
+subtitle: "Every quarter of Ghana's national accounts, from the GSS bulletin"
+page-layout: full
+toc: false
+comments: false
+---
+
+Built from the Ghana Statistical Service Quarterly GDP Bulletin. It runs entirely
+in your browser, so the first load takes a few seconds while R starts up.
+[Open it full screen](/dashboards/gdp-explorer-app/index.html) if the frame is cramped.
+
+::: {.column-screen-inset}
+<iframe src="/dashboards/gdp-explorer-app/index.html"
+        style="width:100%; height:1150px; border:1px solid #E7DECB; border-radius:4px;"
+        loading="lazy"
+        title="Ghana GDP Explorer">
+</iframe>
+:::
+
+Source code: [github.com/aappiah17](https://github.com/aappiah17). Data: Ghana
+Statistical Service, Quarterly Gross Domestic Product Bulletin.
