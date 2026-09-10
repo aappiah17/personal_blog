@@ -13,14 +13,6 @@ website:
         href: about.qmd
       - text: Blog
         href: blog.qmd
-      - icon: github
-        href: https://github.com/aappiah17
-      - icon: twitter
-        href: https://twitter.com/CallmeAlfredo
-      - icon: rss
-        href: blog.xml
-    left:
-      # keep your existing entries, then add:
       - text: "Dashboards"
         menu:
           - text: "All dashboards"
@@ -28,6 +20,13 @@ website:
           - text: "---"
           - text: "Ghana GDP Explorer"
             href: dashboards/gdp-explorer.qmd
+      - icon: github
+        href: https://github.com/aappiah17
+      - icon: twitter
+        href: https://twitter.com/CallmeAlfredo
+      - icon: rss
+        href: blog.xml
+
 
   open-graph: true
   twitter-card: true
