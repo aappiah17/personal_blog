@@ -1,5 +1,6 @@
 ---
 title: "Has ECG really turned around?"
+link-external-newwindow: true
 subtitle: "Both the government and the workers' union are quoting the same numbers. Neither reading survives the accounts."
 date: 2026-09-12
 categories: [energy, public finance, state enterprises]
@@ -91,12 +92,8 @@ Step back and it looks worse. In 2015 ECG lost 22.3 percent of the power it boug
 climbed to a peak of 30.6 percent in 2022 and have since settled around 27 percent. Today's
 figure is nearly five percentage points worse than a decade ago.
 
-PURC allows a tolerance of 21 percent. ECG has not been under it in any of the last eleven
-years.
+PURC allows a tolerance of 21 percent. Consumers pay for that as part of the tariffs. ECG has not been under it in any of the last eleven years.
 
-There is also an awkward detail behind this year's small improvement. ECG bought 8 percent
-more power in 2025, so the volume it actually lost went up, from 4,495 to 4,827 gigawatt
-hours. It lost more power and bought enough extra to make the ratio look slightly better.
 
 **The second is collection efficiency.** Of the electricity ECG does manage to sell, how
 much does it actually get paid for?
@@ -121,7 +118,7 @@ Cash Waterfall Mechanism have moved that number by one point. The benchmark impl
 PURC's own standards is about GH¢77.
 
 In March 2025, at the National Economic Dialogue,
-the Finance Minister described ECG as a financial black hole and said it collects only [62 percent of the electricity it distributes](https://www.myjoyonline.com/consumers-cannot-be-forced-to-pay-higher-tariffs-to-cover-ecgs-inefficiencies-ato-forson-calls-for-reform), leaving nearly 40 percent lost or unpaid for.
+the Finance Minister described ECG as a financial black hole and said it collects only [62 percent of the electricity it distributes](https://www.myjoyonline.com/consumers-cannot-be-forced-to-pay-higher-tariffs-to-cover-ecgs-inefficiencies-ato-forson-calls-for-reform/#:~:text=Dr%20Forson%20revealed%20that%20ECG%20collects%20only%2062%25%20of%20the%20total%20electricity%20it%20distributes%2C%20meaning%20nearly%2040%25%20of%20power%20supplied%20is%20either%20lost%20or%20goes%20unpaid%20for.), leaving nearly 40 percent lost or unpaid for.
 
 That is the same 62 percent. Eighteen months later, on the government's own chosen measure,
 the number has not moved.
