@@ -1,0 +1,24 @@
+---
+title: "Ghana Fiscal Explorer"
+subtitle: "Revenue, spending, deficits and the budget, from every MoF fiscal data release since 2008"
+page-layout: full
+toc: false
+comments: false
+---
+
+Built from the Ministry of Finance Fiscal Data workbooks, the summary of central government
+operations, 2008 to July 2026. It runs entirely in your browser, so the first load takes a few
+seconds while R starts up.
+[Open it full screen](/dashboards/fiscal-explorer-app/index.html) if the frame is cramped.
+
+::: {.column-screen-inset}
+<iframe src="/dashboards/fiscal-explorer-app/index.html"
+        style="width:100%; height:1150px; border:1px solid #E7DECB; border-radius:4px;"
+        loading="lazy"
+        title="Ghana Fiscal Explorer">
+</iframe>
+:::
+
+Source code and the full database: [github.com/aappiah17](https://github.com/aappiah17). Data: Ministry
+of Finance, Fiscal Data ([mofep.gov.gh/fiscal-data](https://www.mofep.gov.gh/fiscal-data)); GDP ratios
+use World Bank nominal GDP.
