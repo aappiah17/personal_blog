@@ -2,6 +2,7 @@ project:
   type: website
   resources:
     - "dashboards/gdp-explorer-app/**"
+    - "dashboards/budget-2027-app/**"
 
 website:
   title: "**Alfred Appiah**"
@@ -20,6 +21,8 @@ website:
           - text: "---"
           - text: "Ghana GDP Explorer"
             href: dashboards/gdp-explorer.qmd
+          - text: "Ghana 2027 Budget Tracker"
+            href: dashboards/budget-2027.qmd
       - icon: github
         href: https://github.com/aappiah17
       - icon: twitter

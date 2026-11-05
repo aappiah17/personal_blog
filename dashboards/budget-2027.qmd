@@ -1,0 +1,27 @@
+---
+title: "Ghana 2027 Budget Tracker"
+subtitle: "Every sector of the 2027 Budget against what 2026 promised and delivered"
+date: 2026-11-05
+image: budget-2027.png
+page-layout: full
+toc: false
+comments: false
+---
+
+Ghana's Finance Minister presents the 2027 Budget to Parliament on 12 November 2026.
+This tracker measures it against the 2026 budget, what was actually spent in 2026, and
+what the 2026 budget itself planned for 2027. Until the budget is out it shows that
+baseline. [Open it full screen](/dashboards/budget-2027-app/index.html) if the frame is cramped.
+
+::: {.column-screen-inset}
+<iframe src="/dashboards/budget-2027-app/index.html"
+        style="width:100%; height:1250px; border:1px solid #E7DECB; border-radius:4px;"
+        loading="lazy"
+        title="Ghana 2027 Budget Tracker">
+</iframe>
+:::
+
+The sector briefs are drafted with AI help from the budget documents and checked figure by
+figure against the source PDF before publishing. Data: Ministry of Finance (budget
+statements, fiscal data and fiscal newsletters), IMF. Source code:
+[github.com/aappiah17](https://github.com/aappiah17).
