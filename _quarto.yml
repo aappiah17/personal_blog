@@ -2,6 +2,7 @@ project:
   type: website
   resources:
     - "dashboards/gdp-explorer-app/**"
+    - "dashboards/fiscal-explorer-app/**"
     - "dashboards/budget-2027-app/**"
 
 website:
@@ -21,6 +22,8 @@ website:
           - text: "---"
           - text: "Ghana GDP Explorer"
             href: dashboards/gdp-explorer.qmd
+          - text: "Ghana Fiscal Explorer"
+            href: dashboards/fiscal-explorer.qmd
           - text: "Ghana 2027 Budget Tracker"
             href: dashboards/budget-2027.qmd
       - icon: github
